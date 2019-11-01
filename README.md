@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Firebase Rest API with Nodejs
 
 
@@ -38,3 +39,4 @@ Change config with your config.json file in firebase, you can find it on
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+=======
